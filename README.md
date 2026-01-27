@@ -1,1 +1,4 @@
-# Framework Arm Mainboard
+#框架ARM主板
+
+##发布说明
+-FML13V04(即将推出)
