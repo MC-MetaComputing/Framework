@@ -1,7 +1,5 @@
 # Framework Arm Mainboard
 
-## Release notes
-
 ## [FML13V04](https://github.com/MC-MetaComputing/Framework/tree/main/FML13V04)
 Some Technical Documents: Click filenames to navigate to their locations.
 
