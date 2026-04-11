@@ -7,8 +7,8 @@
 
 ### BIOS Update
 1. Download the BIOS file and tool, then save them to the USB drive
-- BIOS file：http://120.92.155.32:8082/artifactory/virtOS/cix/20260130/cix_flash_all_fml13v04-0331.bin
-- Update tool:https://drive.google.com/file/d/1r1IKts7_C1TzNc_t1oIPBnAkyX-DEHH-/view?usp=sharing
+- BIOS file: http://120.92.155.32:8082/artifactory/virtOS/cix/20260130/cix_flash_all_fml13v04-0331.bin
+- Update tool: https://drive.google.com/file/d/1r1IKts7_C1TzNc_t1oIPBnAkyX-DEHH-/view?usp=sharing
 
 
 2. Insert the USB drive into the MetaComputing AI PC to be updated
