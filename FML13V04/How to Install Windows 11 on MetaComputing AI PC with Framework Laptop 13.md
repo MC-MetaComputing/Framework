@@ -58,6 +58,7 @@
   - Bluetooth driver: https://drive.google.com/file/d/1BnfDK4iQo1Qqaa0VEIfPq75Of4WgGoCn/view?usp=sharing
 - Download and extract the RTWlanPCIE file.Open the folder, right-click the installer and run it as shown below:
 <img width="1188" height="714" alt="image" src="https://github.com/user-attachments/assets/7bdbb710-da69-4fff-896d-6c14918de021" />
+
 - After the driver is installed, restart the system for it to take effect.
 
 ### Install Framework Keyboard and Touchpad Driver
