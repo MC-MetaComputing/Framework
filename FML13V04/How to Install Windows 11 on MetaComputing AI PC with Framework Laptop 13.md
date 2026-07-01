@@ -1,11 +1,11 @@
 ## Preparation
-- Download the Windows 11 for Arm image.
+- Download the [Windows 11 for Arm image](https://www.microsoft.com/en-us/software-download/windows11arm64).
 - A USB drive of at least 16GB.
 - An 8852BE WiFi network card (for internet access after installation).
 - A set of external keyboard and mouse (built-in keyboard and touchpad won't work until drivers are installed).
 
 ## Create Windows 11 Installation USB
-1. Download the disk imaging tool Rufus.
+1. Download the disk imaging tool [Rufus](https://github.com/pbatard/rufus/releases/download/v4.14/rufus-4.14.exe).
 2. Select the Windows 11 for Arm image to burn.
 <img width="686" height="1017" alt="image" src="https://github.com/user-attachments/assets/442bbd07-bf43-430d-b557-de1f5bebccaa" />
 
