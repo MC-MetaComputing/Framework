@@ -1,5 +1,5 @@
 ## Preparation
-- Download the [Windows 11 for Arm image](https://www.microsoft.com/en-us/software-download/windows11arm64).
+- Download the [Windows 11 for Arm ](https://www.microsoft.com/en-us/software-download/windows11arm64) Image.
 - A USB drive of at least 16GB.
 - An 8852BE WiFi network card (for internet access after installation).
 - A set of external keyboard and mouse (built-in keyboard and touchpad won't work until drivers are installed).
